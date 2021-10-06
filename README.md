@@ -1,4 +1,3 @@
-DATA SCIENCEN AND BUSINESS ANALYTICS - GRIPOCT21
+Task 1 - Prediction Using Supervised Machine Learning
 
-
-TASK - 1: SUPERVISED MACHINE LEARNING (LINEAR REGRESSION) 
+Task 2 - Prediction Using Unsupervised Machine Learning
